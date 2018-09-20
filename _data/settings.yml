@@ -1,7 +1,7 @@
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'meloa-'
+  disqus_shortname: 'melora'
 
 google-ID: 'UA-114084291577933018045'
 
